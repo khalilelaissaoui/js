@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>8809e9b5</title>
+    <title> Mohammed Khalil El aissaoui8809e9b5</title>
 </head>
 
 <?php 
@@ -37,7 +37,7 @@
 ?>
 
 <body>
-    <h1>Please Log In</h1>
+    <h1>Please log in</h1>
     <?php 
         if (isset($_SESSION['error'])) {
             echo "<p style='color: red'>".$_SESSION['error']."</p>";
